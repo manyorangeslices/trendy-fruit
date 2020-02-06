@@ -18,14 +18,34 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 h2 {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .starfruit {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 .persimmon {
-  font-family: 'Comfortaa', cursive;
+  font-family: Comfortaa, cursive;
+}
+
+.card1 {
+  background-color: #e97065;
+}
+
+.card2 {
+  background-color: #fbd25e;
+}
+
+.card3 {
+  background-color: #e86033;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
 }
