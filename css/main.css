@@ -17,3 +17,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h2 {
+  font-family: 'Rammetto One', cursive;
+}
+
+.starfruit {
+  font-family: 'Gravitas One', cursive;
+}
+
+.persimmon {
+  font-family: 'Comfortaa', cursive;
+}
